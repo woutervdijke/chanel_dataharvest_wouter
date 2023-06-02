@@ -1,8 +1,8 @@
-on:
-    push:
-    workflow_dispatch:
-    schedule:
-        - cron:  '*/10 * * * *'
+# on:
+#     push:
+#     workflow_dispatch:
+#     schedule:
+#         - cron:  '*/10 * * * *'
 
 permissions: write-all
 
